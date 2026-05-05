@@ -1,0 +1,6 @@
+{
+  "sola": {
+    "type": "http",
+    "url": "https://api.sola.security/mcp"
+  }
+}
