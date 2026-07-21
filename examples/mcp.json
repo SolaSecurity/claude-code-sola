@@ -2,10 +2,7 @@
   "mcpServers": {
     "sola": {
       "type": "http",
-      "url": "https://api.sola.security/mcp",
-      "auth": {
-        "CLIENT_ID": "YOUR_CLIENT_ID"
-      }
+      "url": "https://api.sola.security/mcp"
     }
   }
 }
