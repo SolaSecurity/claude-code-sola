@@ -1,7 +1,14 @@
 {
   "name": "sola",
+  "version": "1.0.0",
   "description": "AI-native security intelligence. Query your security posture, investigate threats, triage alerts, and run SQL against all your connected data sources — directly from Claude Code.",
   "author": {
-    "name": "Sola Security"
+    "name": "Sola Security",
+    "url": "https://sola.security"
+  },
+  "homepage": "https://docs.sola.security/getting-started/sola-ai/sola-mcp",
+  "mcpServer": {
+    "url": "https://api.sola.security/mcp",
+    "transport": "http"
   }
 }
